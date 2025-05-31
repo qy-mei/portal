@@ -40,7 +40,7 @@ redirect_from:
 <body>
     <br/><br/>
     <div class="container">
-<button class="btn" onclick="window.location.href='/cv'">Switch to English</button>
+<button class="btn" onclick="window.location.href='https://qy-mei.github.io/portal/cv/'">Switch to English</button>
     </div>
     <br/><br/>
 </body>
