@@ -45,15 +45,15 @@ redirect_from:
     <br/><br/>
 </body>
 
-* 姓名: Your Name
-* 电话及微信 15705694836 / 邮箱 [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* 个人主页：[iculizhi.github.io](https://iculizhi.github.io/)
+* 姓名: 梅庆宇
+* 电话及微信  / 邮箱 [pkumqy@foxmail.com](pkumqy@foxmail.com)
+* 个人主页：[https://qy-mei.github.io/portal/](https://qy-mei.github.io/portal/)
 
 学历
 ======
 * 本科：北京，北京大学，2022
-  * 专业：信息与计算科学（图灵班），信息科学技术学院
-  * 双学位：经济学，国家发展研究院
+  * 专业：机器人工程，工学院
+<!--  * 双学位：经济学，国家发展研究院-->
 
 
 
