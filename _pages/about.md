@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [College of Engineering](https://coe.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), currently majoring in robotics. 
+I'm a third year undergraduate student from [College of Engineering](https://www.coe.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), currently majoring in robotics. 
 
 My research interests and skills are concentrated in the fields of cs,robotics etc.   <!--My research interest includes computer vision, computer graphics, machine learning, and computational photography.-->
 
