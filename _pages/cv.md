@@ -47,19 +47,19 @@ redirect_from:
     <br/><br/>
 </body>
 
-* Name: Your Name 
-* Phone and WeChat: 15705694836 / Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* Personal Website: [iculizhi.github.io](https://iculizhi.github.io/)
+* Name: Qingyu Mei
+* Phone and WeChat:  / Email: [pkumqy@foxmail.com](pkumqy@foxmail.com)
+* Personal Website: [qy-mei.github.io/portal](qy-mei.github.io/portal)
 
 Education
 ======
 * Undergraduate: Beijing, Peking University, 2022
-  * Major: Information and Computing Science (Turing Class), School of Electronics Engineering and Computer Science
-  * Double Degree: Economics, National School of Development
+  * Major: Robotics Engineering, College of Engineering
 
+<!--
 Awards
 ======
-* Silver Medal, China Mathematical Olympiad (CMO)
+* Silver Medal, China Mathematical Olympiad (CMO)-->
 
 <!--
 Work experience
