@@ -19,8 +19,8 @@ My research interests and skills are concentrated in the fields of cs,robotics e
 The website is still under construction. Codes and course notes are uploading quickly.
 
 <h2>Pageviews</h2>
-在你修改之前, 这里不是你的网站的访问信息
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TotgUc16tGNawSb8uG8ApnWC8tMLjeLuiR0R0d9Wb8w'></script>
+where you are
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=UNbtqoJhqXiikq5m-XRz570LGo_feO1t7ASktqxNgx8&cl=ffffff&w=a"></script>
 <h2>Contact me</h2>
 
 
