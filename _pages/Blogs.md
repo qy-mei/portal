@@ -6,4 +6,6 @@ author_profile: true
 ---
 {% include base_path %}
 
-- [1111]({{ "portal/Blogs/模版" | relative_url }})
+{% for post in site.Blogs reversed %}
+  {% include archive-single.html %}
+{% endfor %}
