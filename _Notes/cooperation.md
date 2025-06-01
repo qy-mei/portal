@@ -452,22 +452,22 @@ return 0;
 // g++ -std=c++17 -O3 -fopenmp parallel.cpp -o parallel
 // ./parallel
 ```
+
+---
+
 <script src="https://giscus.app/client.js"
         data-repo="qy-mei/portal"
         data-repo-id="R_kgDOOzyKNg"
         data-category="Announcements"
         data-category-id="DIC_kwDOOzyKNs4Cq4J3"
-        data-mapping="pathname"
+        data-mapping="url"
         data-strict="0"
         data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
+        data-emit-metadata="1"
+        data-input-position="top"
+        data-theme="light"
         data-lang="zh-CN"
+        data-loading="lazy"
         crossorigin="anonymous"
         async>
 </script>
-
-
----
-
