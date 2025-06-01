@@ -11,3 +11,4 @@ location: "Beijing, China"
 - 状态 : 完善中
 - 描述 : 细节请见仓库
 - 链接 : [GroupIntelli-Code](https://github.com/satopikac/GroupIntelli-Code)
+- 初版另见 : [Cooperation-In-Scale-Free-Network-and-Regular-Network](https://github.com/satopikac/Cooperation-In-Scale-Free-Network-and-Regular-Network)
