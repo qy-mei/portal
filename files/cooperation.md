@@ -8,7 +8,7 @@ date: 2025-03-30
 location: "Beijing, China"
 ---
 
-# 基于 OpenMP 的多线程演化博弈模拟代码
+# 基于 OpenMP 的多线程演化博弈模拟代码.
 
 本项目是一个使用 **C++17** 和 **OpenMP** 实现的并行演化博弈模拟程序，用于研究不同网络结构（规则网络与无标度网络）下囚徒困境（Prisoner's Dilemma, PD）和雪堆博弈（Snowdrift Game, SG）中合作行为的演化过程。项目请见:
 [github](https://github.com/satopikac/Cooperation-In-Scale-Free-Network-and-Regular-Network)
