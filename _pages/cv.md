@@ -55,7 +55,8 @@ Education
 ======
 * Undergraduate: Beijing, Peking University, 2022
   * Major: Robotics Engineering, College of Engineering
-
+* Master:Beijing, Peking University, 2026 Fall
+  * Major:Mechanics, [School of Advanced Manufacturing and Robotics](https://amr.pku.edu.cn)
 <!--
 Awards
 ======
