@@ -61,7 +61,10 @@ Education
 Awards
 ======
 * Silver Medal, China Mathematical Olympiad (CMO)-->
-
+Awards and Scholarships
+======
+* Merit Student, received in 2025
+* National Scholarship, received in 2025
 <!--
 Work experience
 ======
