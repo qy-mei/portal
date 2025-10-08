@@ -57,14 +57,18 @@ Education
   * Major: Robotics Engineering, College of Engineering
 * Master:Beijing, Peking University, 2026 Fall
   * Major:Mechanics, [School of Advanced Manufacturing and Robotics](https://amr.pku.edu.cn)
-<!--
-Awards
-======
-* Silver Medal, China Mathematical Olympiad (CMO)-->
+
 Awards and Scholarships
 ======
 * Merit Student, received in 2025
 * National Scholarship, received in 2025
+
+
+<!--
+Awards
+======
+* Silver Medal, China Mathematical Olympiad (CMO)-->
+
 <!--
 Work experience
 ======
