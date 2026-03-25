@@ -58,7 +58,8 @@ author_profile: true
 
 <h2>下载专区</h2>
 <ul>
-  <li><a href="../files/test.pdf">机器人学</a></li>
+  <li><a href="../files/test.pdf">机器人学教程</a></li>
+  <li><a href="../files/cv2-PDF.pdf">简历老版</a></li>
 </ul>
 
 <h2>友链</h2>
@@ -70,7 +71,7 @@ author_profile: true
       <a href="https://satopikac.github.io" target="_blank">
         <img src="../images/mqy.jpg" alt="Satopikac's Blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
         <div class="friend-name">Satopikac's Blog</div>
-        <div class="friend-intro">上士闻道, 勤而行之</div>
+        <div class="friend-intro">欢迎访问和交流！</div>
       </a>
     </div>
   </div>

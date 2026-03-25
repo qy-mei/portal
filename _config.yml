@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "qy-mei's site"
+title                    : "Mei QY's site"
 title_separator          : "-"
-name                     : &name "qy-mei "
+name                     : &name "Mei QY"
 description              : &description "111"
 url                      : https://qy-mei.github.io/portal # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

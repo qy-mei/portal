@@ -6,9 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-
-
 {% include base_path %}
 
 <head>
@@ -52,17 +49,19 @@ redirect_from:
 * Personal Website: [qy-mei.github.io/portal](qy-mei.github.io/portal)
 
 Education
-======
+=========
+
 * Undergraduate: Beijing, Peking University, 2022
   * Major: Robotics Engineering, College of Engineering
 * Master:Beijing, Peking University, 2026 Fall
   * Major:Mechanics, [School of Advanced Manufacturing and Robotics](https://amr.pku.edu.cn)
 
 Awards and Scholarships
-======
+=======================
+
 * Merit Student, received in 2025
 * National Scholarship, received in 2025
-
+* Merit Student,received in 2023
 
 <!--
 Awards

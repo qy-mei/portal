@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [College of Engineering](https://www.coe.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), currently majoring in robotics. 
+I'm a fourth year undergraduate student from [College of Engineering](https://www.coe.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), currently majoring in robotics.I have been accepted into the Mechanical Engineering Master's program at Peking University's School of Advanced Manufacturing and Robotics, enrolling in Autumn 2026.
 
-My research interests and skills are concentrated in the fields of cs,robotics etc.   <!--My research interest includes computer vision, computer graphics, machine learning, and computational photography.-->
+My research interests and skills are concentrated in the fields of embobied AI,robotics etc.   <!--My research interest includes computer vision, computer graphics, machine learning, and computational photography.-->
 
 <!--I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.-->
 
-<!--You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).-->
+You can find my CV here: [Curriculum Vitae](../files/cv2-PDF.pdf).
 
 The website is still under construction. Codes and course notes are uploading quickly.
 

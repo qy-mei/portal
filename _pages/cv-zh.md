@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 <head>
@@ -45,26 +44,25 @@ redirect_from:
     <br/><br/>
 </body>
 
-* 姓名: 梅庆宇
+* 姓名: Mei Qingyu
 * 电话及微信  / 邮箱 [pkumqy@foxmail.com](pkumqy@foxmail.com)
 * 个人主页：[https://qy-mei.github.io/portal/](https://qy-mei.github.io/portal/)
 
 学历
-======
+====
+
 * 本科：北京，北京大学，2022
   * 专业：机器人工程，工学院
-* 研究生：北京，北京大学，2026年入学
+* 硕士研究生：北京，北京大学，2026年入学
   * 专业：机械，[先进制造与机器人学院](https://amr.pku.edu.cn)
 
 曾获奖励
-======
+========
+
 * 2025：北京大学三好学生标兵
 * 2025：（本科生）国家奖学金
-
-
-
+* 2023：北京大学三好学生
 <!--  * 双学位：经济学，国家发展研究院-->
-
 
 <!--
 Work experience
